@@ -1,0 +1,53 @@
+<tei>
+	<teiHeader>
+		<fileDesc xml:id="_b3453dd75525ca31fc08951420db2887.pdf" />
+	</teiHeader>
+	<text xml:lang="en">
+		<figure type="table">
+			<table>
+				S.No Shop No./Retail
+				<lb />
+				Outlet No.
+				<lb />
+				Name of Writ
+				<lb />
+				Petitioner
+				<lb />
+				W.P.Nos
+				<lb />
+				1.
+				<lb />
+				4127
+				<lb />
+				S.Sakthivel
+				<lb />
+				23053 of 2021
+				<lb />
+				2.
+				<lb />
+				4137
+				<lb />
+				S.Sakthivel
+				<lb />
+				23055 of 2021
+				<lb />
+				3.
+				<lb />
+				4323
+				<lb />
+				S.Sakthivel
+				<lb />
+				23056 of 2021
+				<lb />
+				4.
+				<lb />
+				4035
+				<lb />
+				S.Parthiban
+				<lb />
+				23058 of 2021
+				<lb />
+			</table>
+		</figure>
+	</text>
+</tei>
